@@ -15,6 +15,15 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 -->
+
+# MiniFlip
+
+Minimal exploratory project to help one _ohAitch_ figure out caravel and wishbone.
+Given low footprint, likely to be integrated into [matvenn/muli-project-harness](
+https://github.com/mattvenn/multi-project-harness) for final submission.
+
+---
+
 # CIIC Harness  
 
 A template SoC for Google SKY130 free shuttles. It is still WIP. The current SoC architecture is given below.
